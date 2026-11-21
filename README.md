@@ -1,6 +1,6 @@
 # 🏢 Real Estate Sales & Collections Dashboard | Power BI (Graduation Project)
 
-Graduation project for the **Route Data Analysis Diploma**: an enterprise-style Power BI report that tracks **unit sales, installment collections, and outstanding balances** across **8 real estate developments**, with separate views for **cash** and **bank-financed** buyers.
+Team graduation project (4 members) for the **Route Data Analysis Diploma**: an enterprise-style Power BI report that tracks **unit sales, installment collections, and outstanding balances** across **8 real estate developments**, with separate views for **cash** and **bank-financed** buyers.
 ---
 
 ## 🎯 Objective
@@ -12,6 +12,18 @@ Give management a clear, single view of the sales and collection performance of 
 - Which installments (1 to 7) are paid, due but unpaid, or not yet due?
 - How do **cash buyers** compare with **bank-financed buyers**, and which banks collect best?
 - How does construction progress relate to collections?
+
+---
+
+## 👥 Team Project & My Contribution
+
+This was a **team project built by 4 members**, each owning part of the report.
+
+**My parts (10 of the 34 pages):**
+- **Global Summary:** all 8 projects side by side (units, sold %, invoiced, collected, outstanding, cash vs. bank)
+- **Collection Summary by Date:** collected and outstanding amounts for new vs. old contracts
+- **Crystal Plaza Maadi Compound:** Overall, Cash, Bank, and Bank-wise views
+- **Degla Landmark:** Overall, Cash, Bank, and Bank-wise views
 
 ---
 
@@ -73,11 +85,12 @@ Sold Count · Sold % · Total Units · Units Price · Amount Collected · Outsta
 ```
 real-estate-sales-dashboard/
 ├── README.md
-├── GlobalSummary.png
+├── globalSummary.png
 ├── CollectionByDataSummary.png
-├── Bank.png
+├── Degla-Landmark-overall.png
 ├── cash.png
-├── Bank-Wise.png
+├── bank.png
+└── bank-wize.png
 ```
 
 The `.pbix` and Excel files are intentionally **not** uploaded (see the note above).
