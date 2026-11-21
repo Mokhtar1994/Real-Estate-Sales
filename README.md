@@ -73,12 +73,11 @@ Sold Count · Sold % · Total Units · Units Price · Amount Collected · Outsta
 ```
 real-estate-sales-dashboard/
 ├── README.md
-└── images/
-    ├── home-page.png
-    ├── global-summary.png
-    ├── project-overview.png
-    ├── cash-view.png
-    └── bank-view.png
+├── home-page.png
+├── global-summary.png
+├── project-overview.png
+├── cash-view.png
+└── bank-view.png
 ```
 
 The `.pbix` and Excel files are intentionally **not** uploaded (see the note above).
